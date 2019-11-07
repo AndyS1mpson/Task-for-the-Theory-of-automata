@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\MyTask\MyTask\bin\Debug\netcoreapp3.0\MyTask.exe
+C:\Users\Пользователь\source\repos\MyTask\MyTask\bin\Debug\netcoreapp3.0\MyTask.deps.json
+C:\Users\Пользователь\source\repos\MyTask\MyTask\bin\Debug\netcoreapp3.0\MyTask.runtimeconfig.json
+C:\Users\Пользователь\source\repos\MyTask\MyTask\bin\Debug\netcoreapp3.0\MyTask.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\MyTask\MyTask\bin\Debug\netcoreapp3.0\MyTask.dll
+C:\Users\Пользователь\source\repos\MyTask\MyTask\bin\Debug\netcoreapp3.0\MyTask.pdb
+C:\Users\Пользователь\source\repos\MyTask\MyTask\obj\Debug\netcoreapp3.0\MyTask.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\MyTask\MyTask\obj\Debug\netcoreapp3.0\MyTask.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\MyTask\MyTask\obj\Debug\netcoreapp3.0\MyTask.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\MyTask\MyTask\obj\Debug\netcoreapp3.0\MyTask.dll
+C:\Users\Пользователь\source\repos\MyTask\MyTask\obj\Debug\netcoreapp3.0\MyTask.pdb
